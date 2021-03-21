@@ -1,5 +1,5 @@
 ---
-title: Web Dev Nova Blog
+title: "Web Dev Nova Blog"
 date: 2021-03-21
 ---
 
